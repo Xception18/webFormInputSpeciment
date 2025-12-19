@@ -1,0 +1,7 @@
+name = "web-form-input-speciment"
+main = "index.js"
+compatibility_date = "2023-12-01"
+
+[site]
+bucket = "."
+include = ["form.html"]
