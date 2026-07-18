@@ -1,0 +1,23 @@
+{
+  "name": "web-form-input-speciment",
+  "version": "1.0.0",
+  "description": "A modern, responsive web application designed for recording concrete specimen data and synchronizing it directly with Google Sheets. Built with Cloudflare Workers for high performance and reliability.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xception18/webFormInputSpeciment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xception18/webFormInputSpeciment/issues"
+  },
+  "homepage": "https://github.com/Xception18/webFormInputSpeciment#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
