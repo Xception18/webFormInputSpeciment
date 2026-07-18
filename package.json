@@ -1,0 +1,25 @@
+{
+  "name": "web-form-input-speciment",
+  "version": "1.0.0",
+  "description": "A modern, responsive web application designed for recording concrete specimen data and synchronizing it directly with Google Sheets.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "lint": "echo 'No linter configured yet'",
+    "test": "echo 'No tests configured yet'"
+  },
+  "keywords": [
+    "cloudflare-workers",
+    "google-sheets",
+    "form"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
